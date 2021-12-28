@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soobeen%20Yoon&fontSize=90)
 
-![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumsil1006&show_icons=true&theme=buefy) 
+![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumsil1006&show_icons=true&theme=nord) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=nord)](https://github.com/anuraghazra/github-readme-stats)
 
