@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Soobeen's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumsil1006&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soobeen's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumsil1006&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
