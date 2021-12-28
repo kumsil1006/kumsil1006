@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VueJS-F7DF1E?style=flat-square&logo=VueJS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <!--
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Soobeen%20Yoon&fontSize=90)-->
 
