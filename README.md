@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumsil1006&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![kumsil1006's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumsil1006)](https://github.com/ashutosh00710/github-readme-activity-graph)
