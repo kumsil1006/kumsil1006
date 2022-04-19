@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumsil1006&show_icons=true&theme=nord)  <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kumsil1006)](https://solved.ac/kumsil1006/)
+![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumsil1006&show_icons=true&theme=nord) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kumsil1006)](https://solved.ac/kumsil1006/)
 <br>
 
 ### 🌹 Contact Me 🌹 <br>
